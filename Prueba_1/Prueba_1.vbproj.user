@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="frm_bitacora.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_crear_usuario.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_ingclientes.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_ingproveedor.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_menu.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="frm_respaldo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
